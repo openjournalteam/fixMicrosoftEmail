@@ -43,7 +43,7 @@ class FixMicrosoftEmailPlugin extends GenericPlugin
 		$mail = $args[0]; // Mail
 		$from = $mail->getFrom();
 		if($from !== null){
-			$mail->setFrom($mail->getEnvelopeSender(), $from['name']);
+			$mail->setFrom(Config::getVar('email', 'smtp_username'), $from['name']);
 		}
 	}
 }

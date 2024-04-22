@@ -12,9 +12,7 @@ Microsoft Email doesn't allow to send email with send as email address. By defau
 
 
 ## How to use
-Change the configuration on `config.inc.php`
-- allow_envelope_sender = On
-- default_envelope_sender = `same with the smtp_username config`
+You just need to enable the plugin. The plugin will automatically change the sender email address to the email address that you have set in the SMTP configuration.
 
 ## License
 
