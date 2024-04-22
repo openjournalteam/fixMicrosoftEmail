@@ -11,8 +11,8 @@ Microsoft Email doesn't allow to send email with send as email address. By defau
 - If you dont know how to upload the plugin please refer to this [documentation](https://docs.pkp.sfu.ca/learning-ojs/3.3/en/settings-website#external-plugins) by PKP
 
 
-## How to use
-You just need to enable the plugin. The plugin will automatically change the sender email address to the email address that you have set in the SMTP configuration.
+## Configuration
+Currently there's no configuration needed for this plugin. Once the plugin is enabled, the plugin will automatically change the sender email address to the email address that you have set in the SMTP configuration.
 
 ## License
 
