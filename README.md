@@ -31,7 +31,8 @@ The support for the plugin is limited since the plugin is provided with free of 
 
 ## Support Contribution 
 
-This open-source project is actively developed and maintained thanks to the dedicated efforts of our team. While the software is freely available, your financial support ensures its long-term sustainability and continued improvement. If you find value in using this project, please consider sponsoring its development or making a donation - any contribution, no matter how small, is greatly appreciated and helps us provide updates and maintenance for the benefit of the entire community. 
+This open-source project is actively developed and maintained thanks to the dedicated efforts of our team. While the software is freely available, your financial support ensures its long-term sustainability and continued improvement. If you find value in using this project, please consider sponsoring its development or making a donation - any contribution, no matter how small, is greatly appreciated and helps us provide updates and maintenance for the benefit of the entire community. Contact us via email for any generous donation. 
 
 ---
 Thank you for using our plugin for your journal! If you have any questions or need assistance, please don't hesitate to contact us to support@openjournaltheme.com
+Don't forget to subscribe to our channel [subscribe now!](https://subscription.openjournaltheme.com/lists/63bfa9ae7633a/sign-up) and visit our site for the latest free plugin : https://openjournaltheme.com
